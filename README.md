@@ -10,7 +10,7 @@ and compute regional summaries — all within a single `.xlsm` workbook.
 
 | File | Description |
 |------|-------------|
-| `macro_class_one.xlsm` | Main Excel workbook with all macros, modules, and UserForms |
+| `macro_one.xlsm` | Main Excel workbook with all macros, modules, and UserForms |
 
 
 
